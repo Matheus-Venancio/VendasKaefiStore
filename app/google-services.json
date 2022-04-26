@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "360127632893",
+    "project_id": "vendaskaefi",
+    "storage_bucket": "vendaskaefi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360127632893:android:9f041b1af72fa63bf43594",
+        "android_client_info": {
+          "package_name": "com.example.vendaskaefistore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360127632893-2fg14kr3vpk3kmj53eog0qrdlei8f20t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJjVHprdYWoNp9WgL9KIC0vmm4P5Sf4Dg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360127632893-2fg14kr3vpk3kmj53eog0qrdlei8f20t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
